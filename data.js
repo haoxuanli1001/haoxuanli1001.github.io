@@ -60,8 +60,8 @@ const siteData = {
   ],*/
   workExperience: [
     {
-      institution: "Xi'an Jiao Tong University",
-      role: "Institude of Artificial Intelligence and Robotics(IAIR) Research Intern",
+      institution: "Institude of Artificial Intelligence and Robotics(IAIR), Xi'an Jiao Tong University",
+      role: "Research Intern",
       period: "April 2026 - Present",
       logo: "./assets/sjtu.png",
       logoAlt: "Xi'an Jiao Tong University logo",
